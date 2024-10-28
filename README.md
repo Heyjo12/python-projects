@@ -18,15 +18,11 @@ Installation
 
     Clone the repository:
 
-    bash
-
-git clone https://github.com/your-username/boom-game-evolution.git
+    bash git clone https://github.com/your-username/boom-game-evolution.git
 
 Install dependencies:
 
-bash
-
-    pip install -r requirements.txt
+bash pip install -r requirements.txt
 
 Recommended IDE
 
@@ -35,9 +31,7 @@ Usage
 
 Run the game with default settings:
 
-bash
-
-python main.py
+bash python main.py
 
 Default Parameters
 
