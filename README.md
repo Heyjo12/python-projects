@@ -31,7 +31,7 @@ Usage
 
 Run the game with default settings:
 
-bash python main.py
+    bash python main.py
 
 Default Parameters
 
